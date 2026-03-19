@@ -1,2 +1,3 @@
-# flex-booking-system-kzg1
-Automated issue comment bot repository
+# Flex Booking System Kzg1
+
+Automated issue comment bot repository.
